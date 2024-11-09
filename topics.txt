@@ -1,0 +1,40 @@
+React Basic
+Components
+Comp to Comp Communication
+State
+Props
+Loop Rendering 
+------
+If Else --> ternary operator (cond) ? trueValue : falseValue
+JSON array
+
+Flux Architecture
+    Context API
+        Context 
+        Provider
+        useContext
+------
+    services
+    React Life Cycle
+    useReducer
+    memo (Pure Component)
+    HOC (higher order component)
+
+----
+    routings
+    protected routings  
+    useMemo
+    useCallback
+    web Vitals 
+    testing (react testing library)   
+
+---
+    Redux Architecture
+    Redux Saga
+
+---
+    Deployment
+---
+    Interview Question
+
+    https://github.com/deepakkumarshinde1/3Ri_React_0824B1125
