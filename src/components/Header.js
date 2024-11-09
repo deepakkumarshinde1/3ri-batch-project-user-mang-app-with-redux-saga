@@ -4,7 +4,7 @@ function Header() {
   return (
     <>
       <header className="position-sticky top-0 bg-white col-12 d-flex justify-content-between p-3 border border-bottom border-2">
-        <p className="h4 text-primary m-0">User Management App</p>
+        <p className="h4 text-primary m-0">User Management Application</p>
         <ul className="list-unstyled d-flex gap-4 m-0">
           <li>
             <NavLink
